@@ -1,15 +1,15 @@
 <h1 align="center">🎯 Sobre o projeto</h1>
 
-Nesse projeto três questões foram abordadas para demonstração de conceitos da linguagem Java e manipulação de arquivos em GUI.
+Nesse projeto três questões foram abordadas para demonstração de conceitos da linguagem Java e manipulação de arquivos
+em GUI.
+
+Tasks:
 
 
-Tasks: 
 
 ## Questões 1 - 2 - 3
 
-
-##  Primeira Questão
-
+## Primeira Questão
 
       A validação de triplicatas em um número inserido e demonstrado seu resultado via JOptionPane.
   
@@ -17,6 +17,9 @@ Tasks:
         Outra solução mais clean poderia ser o String.Utils com o .repeat - para verificar índices numéricos repetidos, com isso a condicional da linha 54 poderia ser removido ao implementar essa lib, mas em contrapartida
         utilizamos o foreach para demonstrar a lógica de verificar o número repetido e o anterior ao anterior - para que essa lógica não ficasse escondida na lib.
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Camargovf/TesteJava/main/SkyTasksModulo/src/main/Resources/PRIMEIRA_QUESTAO.png" width="700px" />
+</div>
 
 ## Segunda Questão
 
@@ -30,8 +33,11 @@ Tasks:
       Foi usado também o uso da collection do Java com map. Uso de blocos recursivos para fácil manutenção a longo prazo. Se esse projeto fosse ser levado a frente, 
       teríamos uma classe principal apenas puxando
       algumas classes que efetuaram o serviço e trabalharíamos com microservices. 
-
-```
+ ```
+      
+<div align="center">
+<img src="https://raw.githubusercontent.com/Camargovf/TesteJava/main/SkyTasksModulo/src/main/Resources/evidencia_pikachu.png" width="200px" />
+</div>
 
 
 ## Terceira Questão
@@ -44,21 +50,28 @@ Tasks:
       Botão som.
       Botão pause.
       Botão close.
+      
  ```
+
+<div align="center">
+<img src="https://github.com/Camargovf/TesteJava/blob/main/SkyTasksModulo/src/main/Resources/evidencia_video.png" width="700px" />
+</div>
+ 
 
 <h1 align="center">📦 Desenvolvimento</h1>
 
 
-Realizado com framework em Java 11, gestor de dependência com Maven. Realizado três implantações com uso de conceitos da línguagem java aplicadas em GUI e com  uso de POO - polimorfismo. Manipulação de arquivo de modo geral.
-O projeto está em um único arquivo de forma didática, e a longo prazo sua perfomance pode estar comprometida por não estar em ambiente devidamente aplicada a cada projeto.
+Realizado com framework em Java 11, gestor de dependência com Maven. Realizado três implantações com uso de conceitos da
+línguagem java aplicadas em GUI e com uso de POO - polimorfismo. Manipulação de arquivo de modo geral.
+O projeto está em um único arquivo de forma didática, e a longo prazo sua perfomance pode estar comprometida por não
+estar em ambiente devidamente aplicada a cada projeto.
 
 <h1 align="center"> 💻 Requisitos de inicialização do projeto</h1>
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de
+desenvolvimento.
 
 Consulte *Implantação* para saber como implantar o projeto.
-
-
 
 ### 📋 Pré-requisitos
 
