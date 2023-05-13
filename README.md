@@ -36,7 +36,7 @@ Tasks:
  ```
       
 <div align="center">
-<img src="hhttps://raw.githubusercontent.com/Camargovf/TesteJava/main/SkyTasksModulo/src/main/Resources/evidencia_pikachu.png" width="200px" />
+<img src="https://raw.githubusercontent.com/Camargovf/TesteJava/main/SkyTasksModulo/src/main/Resources/evidencia_pikachu.png" width="200px" />
 </div>
 
 
