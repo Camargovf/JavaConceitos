@@ -64,7 +64,7 @@ public class MainPlayer {
         frame.setVisible(true);
         frame.pack();
 
-        String path = "apos_skytef_rede_ancora.mp4";
+        String path = "https://raw.githubusercontent.com/Camargovf/ConceitoJava/main/SkyTasksModulo/src/main/Resources/APOS_SKYTEF.mp4";
         try {
             URL url = new URL(path);
             HttpURLConnection huc = (HttpURLConnection) url.openConnection();
