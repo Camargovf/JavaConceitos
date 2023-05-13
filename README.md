@@ -5,6 +5,8 @@ em GUI.
 
 Tasks:
 
+
+
 ## Questões 1 - 2 - 3
 
 ## Primeira Questão
@@ -15,9 +17,9 @@ Tasks:
         Outra solução mais clean poderia ser o String.Utils com o .repeat - para verificar índices numéricos repetidos, com isso a condicional da linha 54 poderia ser removido ao implementar essa lib, mas em contrapartida
         utilizamos o foreach para demonstrar a lógica de verificar o número repetido e o anterior ao anterior - para que essa lógica não ficasse escondida na lib.
 
-    <div align="center">
-    <img src="https://github.com/Camargovf/TesteJava/blob/main/SkyTasksModulo/src/main/Resources/PRIMEIRA_QUESTAO.png" width="700px" />
-    </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Camargovf/TesteJava/main/SkyTasksModulo/src/main/Resources/PRIMEIRA_QUESTAO.png" width="700px" />
+</div>
 
 ## Segunda Questão
 
@@ -31,11 +33,12 @@ Tasks:
       Foi usado também o uso da collection do Java com map. Uso de blocos recursivos para fácil manutenção a longo prazo. Se esse projeto fosse ser levado a frente, 
       teríamos uma classe principal apenas puxando
       algumas classes que efetuaram o serviço e trabalharíamos com microservices. 
+ ```
       
-    <div align="center">
-    <img src="https://github.com/Camargovf/TesteJava/blob/main/SkyTasksModulo/src/main/Resources/evidencia_pikachu.pngg" width="200px" />
-    </div>
-```
+<div align="center">
+<img src="https://github.com/Camargovf/TesteJava/blob/main/SkyTasksModulo/src/main/Resources/evidencia_pikachu.pngg" width="200px" />
+</div>
+
 
 ## Terceira Questão
 
@@ -48,10 +51,12 @@ Tasks:
       Botão pause.
       Botão close.
       
-    <div align="center">
-    <img src="https://github.com/Camargovf/TesteJava/blob/main/SkyTasksModulo/src/main/Resources/evidencia_video.png" width="700px" />
-    </div>
  ```
+
+<div align="center">
+<img src="https://github.com/Camargovf/TesteJava/blob/main/SkyTasksModulo/src/main/Resources/evidencia_video.png" width="700px" />
+</div>
+ 
 
 <h1 align="center">📦 Desenvolvimento</h1>
 
